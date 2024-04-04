@@ -55,7 +55,7 @@ h2 {
 
 #champagne-glasses-img {
   width: 200px;
-  right offset: 50px;
+  object-position: 20px 0;
 }
 
 .content-container, p {
