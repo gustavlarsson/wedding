@@ -76,23 +76,6 @@ h2 {
   margin: 0 auto;
 }
 
-#scroll-down {
-  margin-top: 2em;
-  animation-name: bounce;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-}
-
-#scroll-down > svg {
-  width: 35px;
-}
-
-@keyframes bounce {
-  50% {
-    transform: translateY(50%);
-  }
-}
-
 ol > li {
   margin-bottom: 2em;
 }
@@ -108,6 +91,6 @@ ol > li {
 }
 
 .parking-map {
-  max-width: 400px;
+  max-width: 500px;
   margin: 20px 0;
 }
