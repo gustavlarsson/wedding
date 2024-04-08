@@ -86,7 +86,7 @@ ol > li {
 .parking-map {
   margin: 20px 20px;
   @media (min-width: 600px) {
-      max-width: 100%;
+      max-width: 300px;
     }
 
     @media (min-width: 1000px) {
