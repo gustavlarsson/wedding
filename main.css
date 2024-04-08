@@ -25,11 +25,11 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  max-width: 500px;
+  max-width: 450px;
 }
 
 .content-container, p {
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 100;
 }
 
@@ -53,19 +53,9 @@ h2 {
   font-family: "RoughNotes";
 }
 
-#cf {
-  font-size: 3.5em;
-  font-weight: 100;
-}
-
 #champagne-glasses-img {
   width: 200px;
   object-position: 20px 0;
-}
-
-.content-container, p {
-  font-size: 24px;
-  font-weight: 100;
 }
 
 .hr {
