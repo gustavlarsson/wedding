@@ -25,7 +25,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  max-width: 450px;
+  max-width: 500px;
 }
 
 .content-container, p {
@@ -75,17 +75,7 @@ ol > li {
   margin-bottom: 2em;
 }
 
-#munso {
-  max-width: 350px;
-  filter: grayscale(50%);
-}
-
-.munso-map {
-  max-width: 350px;
-  filter: grayscale(100%);
-}
-
 .parking-map {
-  max-width: 500px;
+  max-width: 446px;
   margin: 20px 0;
 }
