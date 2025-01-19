@@ -90,3 +90,9 @@ ol > li {
       max-width: 500px;
     }
 }
+
+a:link, a:visited, a:hover, a:active {
+  color: #4d7b55;
+  background-color: transparent;
+  text-decoration: none;
+}
